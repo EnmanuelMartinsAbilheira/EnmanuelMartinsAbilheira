@@ -79,9 +79,10 @@
 
 <br>
 
-- **Databases & Cloud Hosting**:
+- **Databases & Cloud Hosting**:	
 
     ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+    ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-%2314354C.svg?style=for-the-badge&logo=PythonAnywhere&logoColor=white)
     ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
     ![amazonaws](https://img.shields.io/badge/amazonaws%20-%23F7DF1E.svg?style=for-the-badge&logo=amazonaws&logoColor=black)&nbsp;
     ![MySQL](https://img.shields.io/badge/mysql%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
