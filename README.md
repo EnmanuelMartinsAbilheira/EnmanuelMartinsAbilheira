@@ -15,7 +15,7 @@
 - Passionate Full stack developer and self-taught artificial intelligence
 - Play chess in spare time
 - Currently attending a master's degree in Applied Artificial Intelligence.
-- I am currently open for an internship or a new job opportunity, this is [my resume](https://github.com/EnmanuelVzla/EnmanuelVzla/raw/main/assets/csv/)
+- I am currently open for an internship or a new job opportunity, this is [my resume](https://github.com/EnmanuelMartinsAbilheira/EnmanuelMartinsAbilheira/raw/main/assets/csv/)
 
 
 <br><br>
@@ -136,24 +136,24 @@
 
 <div align="center">
 
-<a href="https://github.com/EnmanuelVzla/"><img src="https://github-readme-stats.vercel.app/api?username=EnmanuelVzla&show_icons=true&theme=tokyonight">
-</a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnmanuelVzla\&layout=compact&theme=tokyonight)
+<a href="https://github.com/EnmanuelMartinsAbilheira/"><img src="https://github-readme-stats.vercel.app/api?username=EnmanuelMartinsAbilheira&show_icons=true&theme=tokyonight">
+</a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnmanuelMartinsAbilheira\&layout=compact&theme=tokyonight)
 
 </div>
 <br>
   <div>
   	<samp>
         <p align="center">
-          <a href="https://github.com/EnmanuelVzla/">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnmanuelVzla&show_icons=true&theme=tokyonight"
-          alt="EnmanuelVzla :: Top Langs by repo" />
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnmanuelVzla&show_icons=true&theme=tokyonight&layout=compact&hide_border=true"
-          alt="EnmanuelVzla :: Top Langs by commit" />
+          <a href="https://github.com/EnmanuelMartinsAbilheira/">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnmanuelMartinsAbilheira&show_icons=true&theme=tokyonight"
+          alt="EnmanuelMartinsAbilheira :: Top Langs by repo" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnmanuelMartinsAbilheira&show_icons=true&theme=tokyonight&layout=compact&hide_border=true"
+          alt="EnmanuelMartinsAbilheira :: Top Langs by commit" />
           </a>
         </p>
         <p align="center">
-          <a href="https://github.com/EnmanuelVzla/">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=EnmanuelVzla&theme=tokyonight&border_radius=11&card_width=508&ring=EBEBEB&fire=FF0000)](https://git.io/streak-stats" />
+          <a href="https://github.com/EnmanuelMartinsAbilheira/">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=EnmanuelMartinsAbilheira&theme=tokyonight&border_radius=11&card_width=508&ring=EBEBEB&fire=FF0000)](https://git.io/streak-stats" />
           </a>
        </p>
      <br>
