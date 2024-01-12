@@ -14,8 +14,8 @@
 - graduate of computer systems engineering at the IPCA university
 - Passionate Full stack developer and self-taught artificial intelligence
 - Play chess in spare time
-- Currently attending a master's degree in Applied Artificial Intelligence.
-- I am currently open for an internship or a new job opportunity, this is [my resume](https://github.com/EnmanuelMartinsAbilheira/EnmanuelMartinsAbilheira/raw/main/assets/csv/)
+- Currently attending a master's degree in Applied Artificial Intelligence. [My Degree](https://github.com/EnmanuelMartinsAbilheira/Masters_Degree_in_Applied_Artificial_Intelligence)
+- I am currently open for an internship or a new job opportunity, this is [My Resume](https://github.com/EnmanuelMartinsAbilheira/EnmanuelMartinsAbilheira/raw/main/assets/csv/)
 
 
 <br><br>
@@ -41,7 +41,6 @@
    ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS%20-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   <a href="https://webpack.js.org" target="_blank"> <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack"/></a>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 
 <br>
