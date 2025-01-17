@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://img.shields.io/badge/Age-23-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Age-25-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Applied%20Artificial%20Intelligence-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lives-Portugal-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Portugues%20%26%20Spanish-maroon?style=for-the-badge" />
